@@ -10,15 +10,19 @@ For this entire assignment we are going to be using two libraries evaluated imba
 ## Results:
 
 Random over sampling had an accuracy score of 64%, precision was 0.99, recall was 0.68 and the F1 was 0.80
+
 <img width="583" alt="Random_over_sampling " src="https://user-images.githubusercontent.com/102453818/180616892-a60ebd5f-b8d0-4e6f-a29c-e76390dee956.png">
 
 SMOTE accuracy score was 62%, precision was 0.99, and the recall was 0.64, and the F1 was 0.78
+
 <img width="586" alt="SMOTE" src="https://user-images.githubusercontent.com/102453818/180616909-6eac4aad-0b3a-4bac-8911-c70c3e0379bd.png">
 
 ClusterCentroids undersampling had an accuracy score 62% of 99 precision was 0.99 the recall was 0.47 and the F1 0.63
+
 <img width="580" alt="Undersampling " src="https://user-images.githubusercontent.com/102453818/180616924-802c8be0-470b-4985-9add-fe2599852860.png">
 
 SMOTEE had a accuracy score of 52%, a precision score of 0.99, and the recall was 0.57 and the F1 score was 0.73
+
 <img width="578" alt="SMOTEEN" src="https://user-images.githubusercontent.com/102453818/180616934-3fc9ec04-b049-4c78-b486-96d914889276.png">
 
 Balanced Random Forest Classifier had an accuracy score of of 78% with and precision score of 0.99, a recall score of 0.87, and a F1 score of 0.93
@@ -26,6 +30,7 @@ Balanced Random Forest Classifier had an accuracy score of of 78% with and preci
 <img width="614" alt="Balanced Random forrest " src="https://user-images.githubusercontent.com/102453818/180616939-b8a711a9-f282-4451-b27a-a88f71a5e1d4.png">
 
 Easy Ensemble AdaBoost Classifier had An accuracy score of 99% a precision score of 0.99, a recall score of 0.94 and an F1 score of 0.97
+
 <img width="627" alt="AdaBoostClassifer" src="https://user-images.githubusercontent.com/102453818/180616963-fc1a2790-8857-477a-8c7b-d8abba1dacc1.png">
 
 ## Summary: 
