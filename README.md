@@ -13,17 +13,20 @@ Random over sampling had an accuracy score of 64%, precision was 0.99, recall wa
 
 <img width="583" alt="Random_over_sampling " src="https://user-images.githubusercontent.com/102453818/180616892-a60ebd5f-b8d0-4e6f-a29c-e76390dee956.png">
 
-SMOTE accuracy score was 62%, precision was 0.99, and the recall was 0.64, and the F1 was 0.78
+SMOTE accuracy score was 66%, precision was 0.99, and the recall was 0.69, and the F1 was 0.81
 
-<img width="586" alt="SMOTE" src="https://user-images.githubusercontent.com/102453818/180616909-6eac4aad-0b3a-4bac-8911-c70c3e0379bd.png">
+<img width="548" alt="SMOTE" src="https://user-images.githubusercontent.com/102453818/186325332-7208a112-404d-4b6f-a7be-c44e9ec9d77d.png">
 
-ClusterCentroids undersampling had an accuracy score 62% of 99 precision was 0.99 the recall was 0.47 and the F1 0.63
 
-<img width="580" alt="Undersampling " src="https://user-images.githubusercontent.com/102453818/180616924-802c8be0-470b-4985-9add-fe2599852860.png">
+ClusterCentroids undersampling had an accuracy score of 54% precision was 0.99 the recall was 0.40 and the F1 0.56
 
-SMOTEE had a accuracy score of 52%, a precision score of 0.99, and the recall was 0.57 and the F1 score was 0.73
+<img width="564" alt="Undersampling " src="https://user-images.githubusercontent.com/102453818/186325352-34483b70-bf10-4f4f-84df-f750da0e6282.png">
 
-<img width="578" alt="SMOTEEN" src="https://user-images.githubusercontent.com/102453818/180616934-3fc9ec04-b049-4c78-b486-96d914889276.png">
+
+SMOTEE had a accuracy score of 64%, a precision score of 0.99, and the recall was 0.58 and the F1 score was 0.71
+
+<img width="724" alt="Screen Shot 2022-08-23 at 21 55 22" src="https://user-images.githubusercontent.com/102453818/186325438-bccffb2f-03a9-44e2-8392-587cbcdc8921.png">
+
 
 Balanced Random Forest Classifier had an accuracy score of of 78% with and precision score of 0.99, a recall score of 0.87, and a F1 score of 0.93
 
@@ -34,4 +37,4 @@ Easy Ensemble AdaBoost Classifier had An accuracy score of 99% a precision score
 <img width="627" alt="AdaBoostClassifer" src="https://user-images.githubusercontent.com/102453818/180616963-fc1a2790-8857-477a-8c7b-d8abba1dacc1.png">
 
 ## Summary: 
-Due to some technical issue. The code to run deliverable three, Balanced Random forest and Easy Ensemble are correct, however, it will not run. The provided analysis is based on the given data for the module challenge. That being said, out of all the machine learning models, the Easy Ensemble model is going to be the best predictor of credit card risk. It had a really good success rate of 99% accuracy, and a F1 score of 0.97. Now the worst model for prediction risk was SMOTEE. It had the worst accuracy score of 52% and an F1 score 0.73
+Due to some technical issue. The code to run deliverable three, Balanced Random forest and Easy Ensemble are correct, however, it will not run. The provided analysis is based on the given data for the module challenge. That being said, out of all the machine learning models, the Easy Ensemble model is going to be the best predictor of credit card risk. It had a really good success rate of 99% accuracy, and a F1 score of 0.97. Now the worst model for prediction risk was ClusterCentroids undersampling. It had the worst accuracy score of 54% and an F1 score 0.73
