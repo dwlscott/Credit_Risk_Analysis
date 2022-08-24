@@ -9,7 +9,7 @@ For this entire assignment we are going to be using two libraries evaluated imba
 
 ## Results:
 
-Random over sampling had an accuracy score of 64%, precision was 0.99, recall was 0.68 and the F1 was 0.80
+Random over sampling had an accuracy score of 65%, precision was 0.99, recall was 0.68 and the F1 was 0.80
 
 <img width="583" alt="Random_over_sampling " src="https://user-images.githubusercontent.com/102453818/180616892-a60ebd5f-b8d0-4e6f-a29c-e76390dee956.png">
 
